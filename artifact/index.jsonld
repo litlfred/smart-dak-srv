@@ -21,6 +21,7 @@
       "@type": "fhir:ImplementationGuide",
       "dcterms:identifier": "ImplementationGuide/smart.who.int.dak-srv",
       "dcterms:title": "SMART DAK SRV",
+      "schema:name": "DAKSRV",
       "dcterms:description": "Surveillance Digital Adaptation Kit (DAK) Implementation Guide for publishing SMART DAK content for infectious disease surveillance",
       "schema:sameAs": {
         "@id": "http://smart.who.int/dak-srv/ImplementationGuide/smart.who.int.dak-srv"
