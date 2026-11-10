@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "fhir": "http://hl7.org/fhir/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "schema": "https://schema.org/",
+    "prov": "http://www.w3.org/ns/prov#"
+  },
+  "$schema": "folio-ig-artifact-jsonld/v1",
+  "@id": "ImplementationGuide-smart.who.int.dak-srv.jsonld",
+  "@type": "fhir:ImplementationGuide",
+  "dcterms:identifier": "ImplementationGuide/smart.who.int.dak-srv",
+  "schema:name": "DAKSRV",
+  "dcterms:title": "SMART DAK SRV",
+  "dcterms:description": "Surveillance Digital Adaptation Kit (DAK) Implementation Guide for publishing SMART DAK content for infectious disease surveillance",
+  "schema:version": "1.0.1",
+  "schema:sameAs": {
+    "@id": "http://smart.who.int/dak-srv/ImplementationGuide/smart.who.int.dak-srv"
+  },
+  "schema:creativeWorkStatus": "materialized",
+  "schema:encoding": [
+    {
+      "@type": "schema:MediaObject",
+      "schema:contentUrl": {
+        "@id": "https://raw.githubusercontent.com/litlfred/smart-dak-srv/3c92956e75e6c5f5d362a10a747e930d12e6f86c/resources/ImplementationGuide/smart.who.int.dak-srv--ff64f22a.json"
+      },
+      "schema:encodingFormat": "application/fhir+json",
+      "dcterms:source": "local"
+    }
+  ],
+  "prov:wasGeneratedBy": {
+    "@type": "prov:Activity",
+    "schema:instrument": "ig-publisher 3.0.0 / core 7.0.1",
+    "prov:used": "bc2f80890068fc3b1449b3fa64f5a7bca1c87abe"
+  },
+  "dcterms:isPartOf": {
+    "@type": "fhir:ImplementationGuide",
+    "dcterms:identifier": "smart.who.int.dak-srv",
+    "schema:version": "1.0.1",
+    "schema:sameAs": {
+      "@id": "http://smart.who.int/dak-srv"
+    }
+  }
+}
