@@ -21,10 +21,18 @@
     {
       "@type": "schema:MediaObject",
       "schema:contentUrl": {
-        "@id": "https://raw.githubusercontent.com/litlfred/smart-dak-srv/3c92956e75e6c5f5d362a10a747e930d12e6f86c/resources/ImplementationGuide/smart.who.int.dak-srv--ff64f22a.json"
+        "@id": "../ImplementationGuide-smart.who.int.dak-srv.json"
       },
       "schema:encodingFormat": "application/fhir+json",
       "dcterms:source": "local"
+    },
+    {
+      "@type": "schema:MediaObject",
+      "schema:contentUrl": {
+        "@id": "https://raw.githubusercontent.com/litlfred/smart-dak-srv/3c92956e75e6c5f5d362a10a747e930d12e6f86c/resources/ImplementationGuide/smart.who.int.dak-srv--ff64f22a.json"
+      },
+      "schema:encodingFormat": "application/fhir+json",
+      "dcterms:source": "mirror"
     }
   ],
   "prov:wasGeneratedBy": {

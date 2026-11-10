@@ -25,6 +25,9 @@
       "dcterms:description": "Surveillance Digital Adaptation Kit (DAK) Implementation Guide for publishing SMART DAK content for infectious disease surveillance",
       "schema:sameAs": {
         "@id": "http://smart.who.int/dak-srv/ImplementationGuide/smart.who.int.dak-srv"
+      },
+      "schema:contentUrl": {
+        "@id": "../ImplementationGuide-smart.who.int.dak-srv.json"
       }
     }
   ]
