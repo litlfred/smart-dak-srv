@@ -4,6 +4,7 @@
   "title": "smart.who.int.dak-srv — artefact index (from the IG Publisher AST cache)",
   "packageId": "smart.who.int.dak-srv",
   "version": "1.0.1",
+  "status": "draft",
   "canonicalBase": "http://smart.who.int/dak-srv",
   "source": {
     "kind": "output",
