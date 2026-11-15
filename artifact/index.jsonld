@@ -17,7 +17,7 @@
   "schema:numberOfItems": 1,
   "schema:hasPart": [
     {
-      "@id": "ImplementationGuide-smart.who.int.dak-srv.jsonld",
+      "@id": "ImplementationGuide-smart.who.int.dak-srv",
       "@type": "fhir:ImplementationGuide",
       "dcterms:identifier": "ImplementationGuide/smart.who.int.dak-srv",
       "dcterms:title": "SMART DAK SRV",
