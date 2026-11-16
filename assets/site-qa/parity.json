@@ -43,13 +43,13 @@
   }
  },
  "candidate": {
-  "pages": 3943,
+  "pages": 5834,
   "counts": {
    "siteNav": 1,
-   "search": 1955,
-   "navbarRow": 1955,
-   "rail": 1955,
-   "translationMeta": 1956
+   "search": 2905,
+   "navbarRow": 2905,
+   "rail": 2905,
+   "translationMeta": 2906
   },
   "dirs": [
    "ar",
@@ -83,13 +83,13 @@
  },
  "baseline": {
   "features": {
-   "pages": 3943,
+   "pages": 5834,
    "counts": {
     "siteNav": 1,
-    "search": 1955,
-    "navbarRow": 1955,
-    "rail": 1955,
-    "translationMeta": 1956
+    "search": 2905,
+    "navbarRow": 2905,
+    "rail": 2905,
+    "translationMeta": 2906
    },
    "dirs": [
     "ar",
@@ -121,6 +121,6 @@
     "present": true
    }
   },
-  "from": "829ac725cce4"
+  "from": "ba4c89ead70e"
  }
 }
