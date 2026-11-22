@@ -2,14 +2,14 @@
   "$schema": "folio-site-build/v1",
   "instance": "smart-dak-srv",
   "platform": {
-    "commit": "8691b09acc175c43e569a51e36dac14412d8b8cf"
+    "commit": "6d48e106ffd75e4a49bc466068e5f1df1d5d3e2e"
   },
   "source": {
     "repo": "litlfred/smart-dak-srv",
     "ref": "main",
-    "commit": "4380cdb6133b3f5fd7f43f2a20a2b8378d538a34"
+    "commit": "e626ed358e9d9e92ed348fac99922ed467d29aaa"
   },
-  "builtAt": "2026-11-21T20:05:47.288Z",
+  "builtAt": "2026-11-22T00:42:13.171Z",
   "ast": {
     "commit": "bc2f80890068fc3b1449b3fa64f5a7bca1c87abe",
     "verdict": "valid",
